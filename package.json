@@ -1,0 +1,27 @@
+{
+  "name": "myrepublic-farchan-landing",
+  "version": "1.0.0",
+  "description": "MyRepublic Sales Landing Page by Farchan",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "dev": "npx http-server -p 8000 -o",
+    "build": "echo 'No build required - static site'",
+    "deploy": "git push origin main"
+  },
+  "keywords": [
+    "myrepublic",
+    "internet",
+    "fiber-optic",
+    "landing-page"
+  ],
+  "author": "Farchan Widayatama",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/myrepublic-farchan.git"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
